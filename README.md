@@ -1,4 +1,4 @@
-# DevOps Practice
+# DevOps Practice Repository
 
 учебный репозиторий по дорожной карте DevOPs.
 
