@@ -1,4 +1,5 @@
-# DevOps Practice
+# DevOps Practice Lab 
+
 
 учебный репозиторий по дорожной карте DevOPs.
 
